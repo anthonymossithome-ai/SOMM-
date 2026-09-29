@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://anthony-b7p1.vercel.app/sitemap.xml
